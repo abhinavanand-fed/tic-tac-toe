@@ -24,4 +24,5 @@ You may also see any lint errors in the console.
 - Then open terminal and type **npm start**(This will open a basic react app which will direct you to the [React](https://reactjs.org/) website.
 - After successfully creating the React App delete the "src" folder and replace it with the "src" folder from my repository(you can download the .zip folder from my repository and replace it there).
 - Then run "npm start" this will run the Tic-Tac-Toe game.
-![Screenshot of main page](https://user-images.githubusercontent.com/110715459/207372117-764413f1-03dd-4556-a759-ad973f04125a.png)
+![image](https://user-images.githubusercontent.com/110715459/207882819-7e5f7a22-def6-43d5-ae53-c977cb560bfd.png)
+
